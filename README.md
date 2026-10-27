@@ -30,7 +30,7 @@
 | [**StockenShares**](https://github.com/nithilan-manivannan/StockenShares) | paper trading simulator with live prices across global markets |
 | [**proximity**](https://github.com/nithilan-manivannan/proximity) | YouTube downloader — MP4 or MP3, no browser, no account, no BS |
 | [**proximity-**](https://github.com/nithilan-manivannan/proximity-) | local music player with AI auto-tagging and synced lyrics |
-| [**project-hermes**](https://github.com/nithilan-manivannan/project-hermes) | case study on how AI safeguards can be bypassed to enable email abuse |
+| [**project-hermes**](https://github.com/nithilan-manivannan/project-hermes) | security research — weaknesses in AI safety safeguards and email abuse |
 | [**meridian**](https://github.com/nithilan-manivannan/meridian) | minimal clock and focus timer web app |
 | [**adler**](https://github.com/nithilan-manivannan/adler) | lightweight auto clicker with millisecond intervals and global hotkeys |
 
